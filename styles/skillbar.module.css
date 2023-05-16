@@ -1,0 +1,13 @@
+.skillbar, .skillPer{
+    
+    height: 8px;
+    /* background:rgba(0, 0, 0, .01); */
+    background: red;
+
+}
+.skillbar{
+    width: 100%;
+}
+.skillPer{
+    width: 90%;
+}
